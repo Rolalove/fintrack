@@ -13,7 +13,7 @@ This project implements a modern financial dashboard with:
 - Fully responsive layout based on the provided Figma design
 - State management for sorting and data handling
 
-Live Demo: **[View Deployment]()**  
-GitHub Repo: **[View Source Code]()**
+Live Demo: **[View Deployment](https://fintrack-jade.vercel.app/)**  
+GitHub Repo: **[View Source Code](https://github.com/Rolalove/fintrack)**
 
 ---
