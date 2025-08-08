@@ -1,4 +1,4 @@
-interface Transaction {
+export interface Transaction {
   id: string;
   date: string;
   remark: string;
@@ -7,7 +7,7 @@ interface Transaction {
   type: "Credit" | "Debit";
 }
 
-interface DashboardSummary {
+export interface DashboardSummary {
   totalBalance: number;
   totalCredits: number;
   totalDebits: number;

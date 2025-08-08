@@ -1,3 +1,4 @@
+import { DashboardSummary } from "@/types";
 export const dashboardSummary: DashboardSummary = {
   totalBalance: 12345,
   totalCredits: 7890,
