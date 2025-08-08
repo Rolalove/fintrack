@@ -1,7 +1,6 @@
 import { DashboardHeader } from "./components/HeaderSection/DashboardHeader";
 import { Navbar } from "./components/HeaderSection/Navbar";
 import { Sidebar } from "./components/Sidebar";
-import { Table } from "./components/Table";
 
 export default function Home() {
   return (

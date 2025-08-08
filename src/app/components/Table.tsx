@@ -14,7 +14,8 @@ export const Table = () => {
   const sortedTransactions = [...transactions].sort((a, b) => {
     if (!sortBy) return 0;
 
-    let valueA: any, valueB: any;
+    let valueA: string | number;
+    let valueB: string | number;
 
     switch (sortBy) {
       case "date":
